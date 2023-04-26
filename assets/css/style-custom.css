@@ -1,0 +1,14 @@
+
+.logo {
+    color: white;
+    font-family: "Cinzel", serif;
+    vertical-align: middle;
+    font-size: 54px;
+    padding: 10px 0;
+}
+.logo .logo-1 {
+    color: #c30000;
+}
+.logo .logo-2 {
+    margin-left: -14px;
+}
